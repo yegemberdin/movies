@@ -1,0 +1,30 @@
+.name {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	width: 100%;
+} 
+.name p{
+	font-size: 80px;
+	color: solid-black;
+}
+.main {
+	
+}
+.description {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start !important;
+	align-items: flex-start;
+}
+.components p {
+	margin-left: 30px;
+	font-size: 30px;
+	width: 90%;
+}
+.description img {
+	height: 500px;
+	width: 300px;
+}
